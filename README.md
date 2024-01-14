@@ -8,3 +8,7 @@ Das ist ein zweiter Test
 
 Das ist ein dritter Test
 
+## VS Code AddOns
+
+Live Server
+- erstellt lokalen Testserver
