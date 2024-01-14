@@ -12,3 +12,6 @@ Das ist ein dritter Test
 
 Live Server
 - erstellt lokalen Testserver
+
+Prettier
+- automatisierte Formatierung
