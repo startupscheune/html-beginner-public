@@ -4,6 +4,15 @@ header {
 }
 
 body {
-    background: black;
+    background: rgb(161, 159, 159);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+content-section {
+    margin-left: 20px;
+}
+
+#contact {
+    margin-left: 50px;
+}
+
