@@ -15,3 +15,14 @@ Live Server
 
 Prettier
 - automatisierte Formatierung
+
+Deploy to Github Pages
+- Automatisiertes Hochladen auf "eigener" Website
+
+## Lessons Learned
+
+Wünsche
+- Präsenz
+
+Online ist super
+
